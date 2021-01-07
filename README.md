@@ -26,7 +26,10 @@
 #### Development tools:
 <img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishti121&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=drishti121&show_icons=true&hide_border=false)    
 <!--
 **drishti121/drishti121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
