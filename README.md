@@ -2,7 +2,7 @@
 ### Connect with me:
 
 
-<a href="https://www.linkedin.com/in/drishti-gupta-178bba176"">
+<a href="https://www.linkedin.com/in/drishti-gupta-178bba176">
   <img align="left" alt="Drishti's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
 </a>
 <a href="https://github.com/drishti121">
