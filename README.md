@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- __I am a Frontend Developer __
+- <b>I am a Frontend Developer<b>
 - I am also a programmer .
 - 🌱 I’m currently learning
 
