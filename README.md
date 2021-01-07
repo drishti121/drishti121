@@ -3,10 +3,10 @@
 
 
 <a href="https://www.linkedin.com/in/drishti-gupta-178bba176"">
-  <img align="left" alt="Sourav's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+  <img align="left" alt="Drishti's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
 </a>
-<a href="https://github.com/Sourav59580">
-  <img align="left" alt="Sourav's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<a href="https://github.com/drishti121">
+  <img align="left" alt="Drishti's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 <br />
 
