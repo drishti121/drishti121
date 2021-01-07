@@ -12,9 +12,9 @@
 <br>
 <br>
 
-- __I am a Frontend Developer__
+- __I am a Frontend Developer.__
 - I am also a programmer .
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning backend.
 
 ## Technical Skills
 #### Languages: 
