@@ -1,4 +1,14 @@
 ### Hi there 👋
+### Connect with me:
+
+
+<a href="https://www.linkedin.com/in/drishti-gupta-178bba176"">
+  <img align="left" alt="Sourav's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+</a>
+<a href="https://github.com/Sourav59580">
+  <img align="left" alt="Sourav's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+</a>
+<br />
 
 <!--
 **drishti121/drishti121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
