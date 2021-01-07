@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Drishti
 ### Connect with me:
 
 
@@ -9,6 +9,12 @@
   <img align="left" alt="Drishti's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 <br />
+<br>
+<br>
+
+- __I am a Frontend Developer __
+- I am also a programmer .
+- 🌱 I’m currently learning
 
 <!--
 **drishti121/drishti121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
