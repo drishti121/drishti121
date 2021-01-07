@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/C-%ca64564.svg?&style=for-the-badge&logo=C&logoColor=white" />    &nbsp; &nbsp;
 
 #### Development:
-<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <<img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp; 
+<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp; 
 
 #### Development tools:
 <img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;
