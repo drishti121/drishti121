@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/C-%ca64564.svg?&style=for-the-badge&logo=C&logoColor=white" />    &nbsp; &nbsp;
 
 #### Development:
-<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  < <img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp; 
+<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;   <img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp; 
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
